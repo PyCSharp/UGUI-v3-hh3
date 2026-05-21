@@ -33,7 +33,7 @@ On the terminal, use `make compile_commands.json` to generate an HH3 file and th
   <img src="docs/make_bin.png" alt="Run make hhk on the terminal to generate binaries"/>
 </p>
 
-You can now download generated files. If you run into issues during this step, please see [Getting support](#getting-support)
+You can now download the generated files. If you run into issues during this step, please see [Getting support](#getting-support)
 
 <p>
   <img src="docs/download_binary.png" alt="Download the files to upload to your calculator"/>
