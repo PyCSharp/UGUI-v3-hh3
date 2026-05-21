@@ -75,6 +75,3 @@ For more information, you can explore the [docs](https://classpaddev.github.io/)
 ## Getting support
 
 If you need help, feel free to join our community both in [Discord](https://discord.gg/knpcNJTzpd) and [Reddit](https://www.reddit.com/r/fxcp400/)
-
-## Why is there HHK and BIN
-Design decisions made us split between ELF-compatible "hhk" and raw executable binary (or shellcode, kinda) "bin"
