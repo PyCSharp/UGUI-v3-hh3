@@ -1,5 +1,5 @@
 # CP Base Template
-the CP App Template featuring a complete stdlib
+The CP App Template featuring a complete stdlib
 
 ## Usage
 First, fork this repo to work on your own :
@@ -27,7 +27,7 @@ You'll see a message telling it's creating, please wait for a while
 </p>
 
 
-On the terminal, use `make hhk` to generate an HHK file, or `make bin` to generate an BIN (smaller) that's both ready to get uploaded to your calculator
+On the terminal, use `make compile_commands.json` to generate an HH3 file and the compile_commands.json file
 
 <p>
   <img src="docs/make_bin.png" alt="Run make hhk on the terminal to generate binaries"/>
@@ -45,16 +45,14 @@ Plug your calculator on your desktop and choose "USB Flash" mode.
 </p>
 
 
-Go into your file explorer, on the "USB Drive" that's the calculator, and then copy at the root of it your `app_template.hhk` (or/and `app_template.bin`)
-Then, eject the Classpad Mass Storage device by right clicking on notifications > "Safely remove device
+Go into your file explorer, on the "USB Drive" that's the calculator, and then copy at the root of it your `CPapp.hh3`
+Then, eject the Classpad Mass Storage device by right clicking on notifications > "Safely remove device"
 
 Finally on your calculator, go in "System" from the home screen, "System" from the top menu and "Hollyhock-2 Launcher"
-You should see the "My app name" on the list (twice if you did both the HHK and the BIN) and you can "Run" it
+You should see the "UGUI Test" on the list and you can "Run" it
 <p>
   <img src="docs/run_your_app.png" alt="You can run your app by clicking Run"/>
 </p>
-
-You should then see a beautiful demo with "Hello world" and custom shapes on the screen ! Congratulations !
 
 ## What to do next
 
